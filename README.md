@@ -15,4 +15,5 @@ The skill encodes everything Claude needs to build on-brand Zero Design System a
 2. Paste the `zds` folder into the `skills` folder
 3. Start your prompt with `/zds` or mention "zero design system" in your prompt
 
-Last updated on 5 Mar 2026
+
+_Last updated on 5 Mar 2026_
