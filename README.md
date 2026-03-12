@@ -10,7 +10,7 @@ The skill encodes everything Claude needs to build on-brand Zero Design System a
 3. Mention "zero design system" in your prompt
 
 ## Setting up for Claude CLI (Terminal)
-1. Set up the skills folder in your preferred folder: `~/.claude/skills`
+1. Set up the `skills` folder in your preferred main folder: `~/.claude/skills`
     * e.g. `Documents/.claude/skills`
 2. Paste the `zds` folder into the `skills` folder
 3. Start your prompt with `/zds` or mention "zero design system" in your prompt
