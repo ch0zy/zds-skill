@@ -16,4 +16,4 @@ The skill encodes everything Claude needs to build on-brand Zero Design System a
 3. Start your prompt with `/zds` or mention "zero design system" in your prompt
 
 
-_Last updated on 5 Mar 2026_
+_Last updated on 19 Mar 2026_
